@@ -1,4 +1,4 @@
-Ionic App Base
+Little Free Library Locator
 =====================
 
 A starting project for Ionic that optionally supports using custom SCSS.
